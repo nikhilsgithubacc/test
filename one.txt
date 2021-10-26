@@ -1,1 +1,2 @@
-This is my first git attempt
+This is my first git attempt!
+Hello I edited the file.
